@@ -1,7 +1,7 @@
 Type: Package
 Package: lazyNumbers
 Title: Exact Floating-Point Arithmetic
-Version: 1.2.0
+Version: 1.2.1
 Authors@R: 
     person("Stéphane", "Laurent", , "laurent_step@outlook.fr", role = c("aut", "cre"))
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
@@ -23,7 +23,7 @@ Collate: 'classes.R' 'Arith.R' 'Compare.R' 'Concat.R' 'Extract.R'
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2022-11-19 11:25:52 UTC; stla
+Packaged: 2022-11-21 15:29:23 UTC; stla
 Author: Stéphane Laurent [aut, cre]
 Repository: CRAN
-Date/Publication: 2022-11-21 10:50:08 UTC
+Date/Publication: 2022-11-21 21:50:06 UTC
